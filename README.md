@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can (aka Lyceion)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyceion&label=Profile%20views&color=0e75b6&style=flat" alt="lyceion" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyceion" alt="lyceion" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyceion&theme=darkhub" alt="lyceion" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/candestan1" target="blank"><img src="https://img.shields.io/twitter/follow/candestan1?logo=twitter&style=for-the-badge" alt="candestan1" /></a> </p>
 
