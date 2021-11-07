@@ -11,7 +11,6 @@
 <p align="left">
 <p align="left"> <a href="https://twitter.com/inhalethenight" target="blank"><img src="https://img.shields.io/twitter/follow/inhalethenight?logo=twitter&style=for-the-badge" alt="inhalethenight" /></a> </p>
 <a href="https://linkedin.com/in/can-destan-2b3221a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="can-destan-2b3221a5" height="30" width="40" /></a>
-<a href="https://discord.gg/9U3SyQcSsV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9U3SyQcSsV" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
